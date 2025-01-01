@@ -1,0 +1,6 @@
+Command 👇
+
+git clone https://github.com/wifiphisher/wifiphisher.git
+cd wifiphisher
+sudo python setup.py
+ install
